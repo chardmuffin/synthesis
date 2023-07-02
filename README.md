@@ -81,6 +81,7 @@ Resulting output could be:
 ]
 
 ## TODO
+* Hardcode explicit rules for generating counterpoint
 * Play the result in MIDI
 * Slider for accidentals and non-chord tone saturation
 * Music notation editor

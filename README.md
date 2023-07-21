@@ -81,9 +81,10 @@ Resulting output could be:
 ]
 
 ## TODO
-* Hardcode explicit rules for generating counterpoint
+* Replace OpenAI with something more suitable for generating music
+* Explicit rules for acceptable counterpoint
 * Play the result in MIDI
-* Slider for accidentals and non-chord tone saturation
+* Slider for non-chord tone saturation
 * Music notation editor
 * Allow selection for different species counterpoint (I-IV)
 * Allow option to generate up to 3 lines
